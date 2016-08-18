@@ -4,7 +4,7 @@ Contact: [Daniel Falster](http://danielfalster.com/)
 
 This repository contains all the code used to produce figures in the manuscript:
 
-Wenk, E. H. & Falster, D.S. (2016) Quantifying and understanding reproductive allocation schedules in plants. *Ecology and Evolution*  (in press)
+Wenk EH, Falster DS (2015) **Quantifying and understanding reproductive allocation schedules in plants**. *Ecology and Evolution* 5: 5521-5538. [10.1002/ece3.1802](http://doi.org/10.1002/ece3.1802)
 
 ## Running
 
